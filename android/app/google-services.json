@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176161723550",
+    "project_id": "eva-testing-85a6b",
+    "storage_bucket": "eva-testing-85a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176161723550:android:b2a2fc3676c98cb3e8178f",
+        "android_client_info": {
+          "package_name": "com.example.eva_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1pwZw_q6hMi4Qkw-oEJh8VkrHYMGMVDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
